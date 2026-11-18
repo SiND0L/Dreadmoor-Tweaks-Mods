@@ -21,7 +21,6 @@ Dreadmoor\Binaries\Win64\ue4ss\
 `mods.txt` must contain the entry **before** the built-in keybinds comment:
 
 ```
-DumpKit : 1
 DreadmoorTweaks : 1
 
 ; Built-in keybinds, do not move up!
